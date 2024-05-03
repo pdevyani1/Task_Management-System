@@ -1,4 +1,4 @@
-# Employee Task Management System
+# Task Management System
 
 An employee task management system is a comprehensive software solution designed to streamline and optimize the process of assigning, tracking, and completing tasks within an organization. At its core, the system facilitates efficient task assignment by allowing managers to delegate responsibilities to individual employees or teams, specifying details such as deadlines, priority levels, and any relevant instructions. Employees, in turn, can easily access their assigned tasks, track their progress, and prioritize their work accordingly. 
 
